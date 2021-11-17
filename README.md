@@ -1,8 +1,6 @@
 # hexastudios.ml
-
 Created with CodeSandbox
-
-##Log
+## Log
 
 ```
 11/15/2021
